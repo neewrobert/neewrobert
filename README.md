@@ -2,7 +2,7 @@
 
 ## Stats
 ![NeewRobert's GitHub stats](https://github-readme-stats.vercel.app/api?username=neewrobert&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neewrobert&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neewrobert&hide_progress=false)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer engineer
