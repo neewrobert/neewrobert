@@ -1,7 +1,8 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=neewrobert.neewrobert&color=00cf00)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neewrobert&show_icons=true&theme=dark)
+![NeewRobert's GitHub stats](https://github-readme-stats.vercel.app/api?username=neewrobert&show_icons=false&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neewroberts&hide_progress=true)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer engineer
