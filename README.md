@@ -2,7 +2,7 @@
 
 ## Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
