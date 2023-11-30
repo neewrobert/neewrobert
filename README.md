@@ -1,19 +1,10 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=neewrobert.neewrobert&color=00cf00)
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neewrobert&hide_progress=true)
-
-
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer engineer
-- 💼 [We are Waes](https://wearewaes.com/)
-- 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 city of Sao Paulo, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛 2019
-
 ## Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -28,6 +19,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer engineer
+- 💼 [We are Waes](https://wearewaes.com/)
+- 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 city of Sao Paulo, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛 2019
+
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
