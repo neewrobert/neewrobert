@@ -1,5 +1,8 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=neewrobert.neewrobert&color=00cf00)
 
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neewrobert&show_icons=true&theme=dark)
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer engineer
 - 💼 [We are Waes](https://wearewaes.com/)
