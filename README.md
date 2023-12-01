@@ -11,7 +11,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-### Technologies
+### :book: Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -22,7 +22,7 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer engineer
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 engineer
 - 💼 [We are Waes](https://wearewaes.com/)
 - 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 city of Sao Paulo, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝙳𝚎𝚌𝚎𝚖𝚋𝚎𝚛 2019
 
