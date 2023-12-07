@@ -1,4 +1,4 @@
-![visitors](https://vbr.wocr.tk/badge?page_id=neewrobert.neewrobert&color=00cf00)
+
 
 ## Languages
 
